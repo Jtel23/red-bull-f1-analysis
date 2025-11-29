@@ -102,11 +102,8 @@ GROUP BY season;
 ## 👤 Autor
 
 **Julio — Data Analyst**
-🔗 LinkedIn: *[(adicione aqui)](https://www.linkedin.com/in/j%C3%BAlio-teleschi-ba173420b/)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/j%C3%BAlio-teleschi-ba173420b/)*
 
 ---
 
 Se quiser visualizar ou melhorar o projeto, fique à vontade para abrir issues ou sugestões.
-
-```
-
